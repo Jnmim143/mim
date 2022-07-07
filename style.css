@@ -1,0 +1,279 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.background-img {
+    background-image: url(images/0.1.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+h1 {
+    font-size: 50px;
+
+}
+
+.white-color {
+    color: white;
+    text-align: center;
+
+}
+
+
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(tomato);
+    color: white;
+    font-weight: 700;
+    padding: 5px 5px;
+    background-color: tomato;
+    border-radius: 5px;
+    padding-left: 0 px;
+    display: grid;
+    margin: auto;
+    align-items: center;
+    height: 20px;
+    width: 80px;
+    font-size: 10px;
+
+
+
+}
+
+.l-button {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+
+    height: 20px;
+    width: 90px;
+    border-radius: 5px;
+    padding: 15px 15px;
+    align-items: center;
+    text-align: justify;
+
+}
+
+h1 {
+    text-align: center;
+
+}
+
+
+
+#sec-por {
+    color: black;
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.taka {
+    font-size: 20px;
+    background-color: rgb(206, 202, 202);
+    width: 130px;
+    height: 100px;
+    margin: 30px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 10px;
+
+}
+
+#taka-color {
+    color: tomato;
+    background-color: rgb(250, 188, 177);
+    border: solid tomato;
+
+}
+
+.second-portion {
+    text-align: center;
+    padding: 100px 200px;
+}
+
+.donate-button {
+    color: tomato;
+    text-align: center;
+
+}
+
+#decoration-button {
+    text-decoration: none;
+}
+
+.Third-portion {
+    text-align: center;
+    padding: 100px 200px;
+}
+
+#Third-por {
+    color: black;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.food {
+
+    width: 330px;
+    height: 300px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 10px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2rem;
+
+
+
+}
+
+.food p {
+    color: black;
+    text-align: left;
+    font-size: 16px;
+}
+
+.fa-solid {
+    font-size: 36px;
+    color: #3a3a3a;
+}
+
+
+.shelter {
+    width: 330px;
+    height: 300px;
+    background: rgba(122, 236, 175, 0.1);
+    border-radius: 10px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2rem;
+
+
+}
+
+.shelter p {
+    color: black;
+    text-align: left;
+    font-size: 16px;
+}
+
+
+.education {
+    width: 330px;
+    height: 300px;
+    background: rgba(248, 201, 143, 0.1);
+    border-radius: 10px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2rem;
+
+
+}
+
+.education p {
+    color: black;
+    text-align: left;
+    font-size: 16px;
+}
+
+.half-width {
+    margin-bottom: 2.5rem;
+    margin-top: 2.5rem;
+
+    width: 40vw;
+    height: 40vh;
+}
+
+#service {
+    margin-top: 3.5rem;
+    margin-left: 2rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.half-area img {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    width: 65%;
+    height: 125%;
+}
+
+.half-area h1 {
+    font-size: 40px;
+    margin-top: 2rem;
+}
+
+.half-area p {
+    width: 80%;
+    margin-top: 2rem;
+    font-size: 16px;
+    font-weight: normal;
+    color: #707070;
+    margin-bottom: 2rem;
+}
+
+.footer-c {
+    background-color: black;
+    height: 200px;
+    color: red;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#last-font {
+    font-family: 'Splash', cursive;
+}
+
+#last {
+    color: white;
+    text-align: center;
+}
+
+.get {
+    text-align: center;
+    padding: 10% 10%;
+}
+
+#get-por {
+    color: black;
+    font-size: 12px;
+}
+
+.button {
+    text-align: center;
+    font-size: 50px;
+    padding: 5% 5%;
+}
